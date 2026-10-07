@@ -2,7 +2,7 @@
 
 A Power BI analysis of 120 customer feedback records for OmniRetail, a U.S. electronics and smart-home retailer, built to identify what drives satisfaction and loyalty across regions, demographics, and support experiences.
 
-![Dashboard preview](assets/dashboard-preview.png)
+![Dashboard preview](assets/images-preview.png)
 
 ## Overview
 
